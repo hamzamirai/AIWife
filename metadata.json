@@ -1,0 +1,7 @@
+{
+  "name": "AI Wife - Evelyn",
+  "description": "A compassionate and loving AI companion, Evelyn, who listens and talks to you in real-time. Experience a warm, supportive conversation whenever you need it.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
